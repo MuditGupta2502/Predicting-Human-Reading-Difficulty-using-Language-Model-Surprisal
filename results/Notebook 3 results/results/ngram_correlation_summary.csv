@@ -1,0 +1,3 @@
+Dataset,"Corr(logDV, bigram surprisal)","Corr(logDV, trigram surprisal)"
+Natural Stories (Primary),0.21494594326710498,0.1928059347112824
+Dundee (Replication),0.17319770081052277,0.17146820360288978

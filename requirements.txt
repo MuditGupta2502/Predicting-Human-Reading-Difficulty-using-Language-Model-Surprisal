@@ -1,0 +1,22 @@
+# Core data
+numpy
+pandas
+scipy
+
+# NLP / Language Models
+nltk
+transformers
+torch
+tokenizers
+
+# Regression / ML
+statsmodels
+scikit-learn
+xgboost
+
+# Plotting
+matplotlib
+seaborn
+
+# Utilities
+tqdm
